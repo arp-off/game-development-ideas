@@ -1,3 +1,4 @@
-Title:- The Hunger
+Game Ideas!!!
 -------------------------
-Don't forget to put a small credit in your game.
+Games List:-
+1. The Hunger
